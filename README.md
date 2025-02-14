@@ -11,3 +11,7 @@ The goal of this project is to help people and at the same time, to try ways to 
 3. simple dashboard
 
    
+# Technologies used
+1. data factory
+2. sql server
+3. power bi
